@@ -1,0 +1,12 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgba(0,0,0,0.5);
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: .3em;
+    top: 15%;
+    background: linear-gradient(to right, red, yellow);
+}
+h3 {
+    font-size: .9em;
+}
